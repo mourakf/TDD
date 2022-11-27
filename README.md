@@ -7,7 +7,7 @@ Este repositório contém exercicios feitos em javascript com jest em TDD - test
 * Jest
 
 ## Instalação de dependências
-Digitar no terminal ```npm i``` para instação de dependências.
+Digitar no terminal ```npm i``` para instalação de dependências.
 
 ## Execução
 Para executar todos os testes:<br>
